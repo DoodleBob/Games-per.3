@@ -1,0 +1,534 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 645 (ID=0x11c4)
+    Vendor:   NVIDIA
+    VRAM:     973 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.149 seconds
+Platform assembly: C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Student\Documents\EChavez\Space Shooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.730218 ms
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.669845 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 426.
+Total: 0.384579 ms (FindLiveObjects: 0.046185 ms CreateObjectMapping: 0.031998 ms MarkObjects: 0.298245 ms  DeleteObjects: 0.006641 ms)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at Done_DestroyByContact.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 18e4 -> priority: 1 
+  Thread -> id: 191c -> priority: 1 
